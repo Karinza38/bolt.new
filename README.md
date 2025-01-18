@@ -1,4 +1,4 @@
-[![Bolt.new: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.new)
+ [![Bolt.new: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.new)
 
 # Bolt.new: AI-Powered Full-Stack Web Development in the Browser
 
